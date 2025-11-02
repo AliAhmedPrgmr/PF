@@ -50,8 +50,9 @@ printf ("Number is %d",testInteger);
 
 /* Integer Overflow has occured because int stores values in 32 bit registers.
 The value we are trying to store in it is more than the registers maximum value,
-so it just displays a random two's complement value.
+so it just displays a random value.
 */
+
 
 
 
