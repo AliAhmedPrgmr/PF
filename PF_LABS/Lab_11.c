@@ -30,7 +30,7 @@ struct add{
 };
 struct student{
 	float          cgpa;
-	struct course  subject[4];
+	struct course  subject[5];
 	struct add     address;
 };
 
@@ -180,3 +180,4 @@ printf("\n\n\nQuestion 5\n");
 	WriteComplex(g);
 
 }
+
